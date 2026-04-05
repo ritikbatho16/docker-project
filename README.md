@@ -59,7 +59,7 @@ Note: Inside Docker, service names are used instead of localhost.
 Screenshots
 
 Flask API Response
-![Flask API](screenshots/flask.png)
+https://github.com/ritikbatho16/docker-project/blob/main/flaskapi.png
 
 Node.js Response
 ![Node API](screenshots/node.png)
