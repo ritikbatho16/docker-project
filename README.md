@@ -62,7 +62,7 @@ Flask API Response
 https://github.com/ritikbatho16/docker-project/blob/main/flaskapi.png
 
 Node.js Response
-![Node API](screenshots/node.png)
+https://github.com/ritikbatho16/docker-project/blob/main/node.js.png
 
 ---
 
